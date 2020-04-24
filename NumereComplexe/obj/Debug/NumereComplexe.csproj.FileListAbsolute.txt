@@ -5,3 +5,10 @@ C:\Users\Andrei\source\repos\NumereComplexe\obj\Debug\NumereComplexe.csprojAssem
 C:\Users\Andrei\source\repos\NumereComplexe\obj\Debug\NumereComplexe.csproj.CoreCompileInputs.cache
 C:\Users\Andrei\source\repos\NumereComplexe\obj\Debug\NumereComplexe.exe
 C:\Users\Andrei\source\repos\NumereComplexe\obj\Debug\NumereComplexe.pdb
+C:\Users\Andrei\Desktop\Andrei\Informatica\Programare orientata pe obiecte\NumereComplexe\bin\Debug\NumereComplexe.exe.config
+C:\Users\Andrei\Desktop\Andrei\Informatica\Programare orientata pe obiecte\NumereComplexe\bin\Debug\NumereComplexe.exe
+C:\Users\Andrei\Desktop\Andrei\Informatica\Programare orientata pe obiecte\NumereComplexe\bin\Debug\NumereComplexe.pdb
+C:\Users\Andrei\Desktop\Andrei\Informatica\Programare orientata pe obiecte\NumereComplexe\obj\Debug\NumereComplexe.csprojAssemblyReference.cache
+C:\Users\Andrei\Desktop\Andrei\Informatica\Programare orientata pe obiecte\NumereComplexe\obj\Debug\NumereComplexe.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\Desktop\Andrei\Informatica\Programare orientata pe obiecte\NumereComplexe\obj\Debug\NumereComplexe.exe
+C:\Users\Andrei\Desktop\Andrei\Informatica\Programare orientata pe obiecte\NumereComplexe\obj\Debug\NumereComplexe.pdb
